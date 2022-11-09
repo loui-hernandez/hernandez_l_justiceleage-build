@@ -130,7 +130,7 @@ footer {
 .lightbox { 
     display: none;
     width: 100vw; /* vw = viewport width => screen width */
-    height: 130vh; /* vh = viewport height => screen height */
+    height: 100vh; /* vh = viewport height => screen height */
 
     position: absolute;
     top: 0;
@@ -148,27 +148,27 @@ footer {
     display: none;
 }
 
-#lightBox {
+#lightbox {
     background-image: url('../img/batman-justice-league.png');
 }
 
-#lightBox2 {
+#lightbox2 {
     background-image: url('../img/cyborg.png');
 }
 
-#lightBox3 {
+#lightbox3 {
     background-image: url('../img/wonder-woman.png');
 }
 
-#lightBox4 {
+#lightbox4 {
     background-image: url('../img/aquaman-justice-league.png');
 }
 
-#lightBox5 {
+#lightbox5 {
     background-image: url('../img/flash.png');
 }
 
-#lightBox6 {
+#lightbox6 {
     background-image: url('../img/superman.png');
 }
 
